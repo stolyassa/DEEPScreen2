@@ -1,0 +1,13 @@
+name: DEEPScreen
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pytorch::pytorch
+  - torchaudio
+  - torchvision
+  - notebook
+  - jupyterlab
+prefix: /Users/hayriye/opt/anaconda3/envs/DEEPScreen
